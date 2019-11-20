@@ -1,1 +1,3 @@
 * Test git hooks
+
+append
